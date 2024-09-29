@@ -2,7 +2,7 @@ Package: com.dvntm.silentnotifs
 Name: SilentNotifs
 Version: 0.0.1
 Architecture: iphoneos-arm
-Description: An awesome MobileSubstrate tweak!
+Description: Keep notifications silent while media is playing
 Maintainer: dvntm
 Author: dvntm
 Section: Tweaks
