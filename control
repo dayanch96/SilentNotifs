@@ -1,0 +1,9 @@
+Package: com.dvntm.silentnotifs
+Name: SilentNotifs
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: dvntm
+Author: dvntm
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
